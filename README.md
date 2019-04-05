@@ -1,2 +1,8 @@
-# pk_udp_sample
-UDP sample client and server
+# UDP Sample Code
+
+This project contains:
+
+- UDP sample client and server
+- makefile set up for networking projects
+- .gitignore set up for networking projects
+- .vscode workspace set up for networking projects
