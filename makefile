@@ -22,5 +22,6 @@ client: client.o
 # $(RM) is rm -f by default
 clean:
 		$(RM) *.o $(deps) a.out core client server
+		rm -rf .vscode/ipch/*
 
 -include $(deps)
